@@ -5,9 +5,9 @@
 }
 
 :root {
-  --primary-color: var(--primary-color);
-  --secondary-color:var(--secondary-color);
-  --tertiary-color: var(--tertiary-color); 
+  --primary-color: #fce138;
+  --secondary-color:#024e76;
+  --tertiary-color: #39a6b2; 
 }
 
 body {
@@ -148,8 +148,8 @@ section {
 }
 
 .hero-form button:hover {
-  background-color: var(--tertiary-color);  
-}
+  background-color: var(--tertiary-color); 
+} 
 
 .hero-form h3 {
   font-size: 24px;
