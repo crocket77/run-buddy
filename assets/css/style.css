@@ -9,7 +9,7 @@
   --secondary-color:#024e76;
   --tertiary-color: #39a6b2; 
 }
-
+/* this is the body section */
 body {
   color: var(--tertiary-color);
   font-family: Helvetica, Arial, sans-serif;
